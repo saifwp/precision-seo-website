@@ -1,7 +1,3 @@
-# presion-seo-website
-
-Custom WordPress website developed for a results-driven SEO and digital marketing agency. Designed to reflect credibility, professionalism, and expertise in the SEO industry, with full responsiveness, strong SEO foundation, and lead generation capabilities.
-
 ## SEO Agency Website – [Live Website](https://precisionseo.com.au/)
 
 ### Overview
